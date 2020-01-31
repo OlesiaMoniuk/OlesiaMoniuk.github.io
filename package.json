@@ -1,0 +1,33 @@
+{
+  "name": "osfproject",
+  "version": "1.0.0",
+  "description": "Project",
+  "main": "gulpfile.js",
+  "repository": {
+    "type": "git"
+  },
+  "keywords": [
+    "gulp",
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "Olesia",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^9.7.0",
+    "browser-sync": "^2.26.7",
+    "cssnano": "^4.1.10",
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-postcss": "^8.0.0",
+    "gulp-replace": "^1.0.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-uglify": "^3.0.2"
+  },
+  "dependencies": {
+    "bootstrap-cookie-alert": "^1.1.1",
+    "desoslide": "^2.2.0"
+  }
+}
